@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 601fb55c4e341fa489d7c7e61e282e29
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 1
+    quality: 0
+    conversionMode: 0
+    preloadAudioData: 1
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 0
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 0
+  userData: "{\r\n  \"imposter.canonicalPathID\": -5534905185019472024,\r\n  \"imposter.canonicalCabID\":
+    \"CAB-80021900528fda2cf360f80bee1f9b0b\"\r\n}"
+  assetBundleName: assets/systems/nightvision
+  assetBundleVariant: bundle
